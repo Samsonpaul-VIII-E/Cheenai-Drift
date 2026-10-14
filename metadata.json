@@ -1,0 +1,6 @@
+{
+  "name": "LeadForge X",
+  "description": "Public Data Intelligence & Lead Operations Platform with cyber-ops telemetry, async crawler, Room persistence, and SSRF security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

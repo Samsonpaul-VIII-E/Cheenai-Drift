@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeadForge X</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_operations">Live Ops</string>
+    <string name="nav_new_job">New Job</string>
+    <string name="nav_leads">Leads</string>
+    <string name="nav_audit">Audit &amp; Health</string>
+</resources>
